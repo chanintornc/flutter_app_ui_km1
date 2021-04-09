@@ -1,6 +1,6 @@
 # flutter_app_ui_km1
-<img src="https://user-images.githubusercontent.com/5345330/114166163-9838dd00-9957-11eb-9cf5-64b3a4bef522.png" width="500">
-<img src="https://user-images.githubusercontent.com/5345330/114166169-9a9b3700-9957-11eb-8bad-fbcb9a32e896.png" width="500">
+<img src="https://user-images.githubusercontent.com/5345330/114166163-9838dd00-9957-11eb-9cf5-64b3a4bef522.png" width="300">
+<img src="https://user-images.githubusercontent.com/5345330/114166169-9a9b3700-9957-11eb-8bad-fbcb9a32e896.png" width="300">
 
 ## Getting Started
 
