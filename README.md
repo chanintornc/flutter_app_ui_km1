@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![Settings Window](https://github.com/chanintornc/flutter_app_ui_km1/tree/master/assets/uis/ui1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
