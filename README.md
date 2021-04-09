@@ -1,8 +1,7 @@
 # flutter_app_ui_km1
 
-A new Flutter application.
-
-![ScreenShot](https://github.com/chanintornc/flutter_app_ui_km1/tree/master/assets/uis/ui1.png)
+![ui1](https://user-images.githubusercontent.com/5345330/114166163-9838dd00-9957-11eb-9cf5-64b3a4bef522.png)
+![ui2](https://user-images.githubusercontent.com/5345330/114166169-9a9b3700-9957-11eb-8bad-fbcb9a32e896.png)
 
 ## Getting Started
 
@@ -16,3 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
